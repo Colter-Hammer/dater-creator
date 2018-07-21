@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Dater Creator</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="./main.css" />
+
+  </head>
+
+  <body>
+
+    <div class="topnav">
+      <a href="#ideas" class="nav">Ideas</a>
+      <a href="#filter" class="nav">Filter</a>
+      <a href="#calendar" class="nav">Calendar</a>
+      <a href="#new_idea" class="nav">New Idea</a>
+      <div class="search-container">
+        <form action="/action_page.php">
+          <input type="text" placeholder="Search.." name="search">
+          <button type="submit">
+            <i class="fa fa-search">Submit</i>
+          </button>
+        </form>
+      </div>
+    </div>
+
+    <main>
+      <div id="ideasPlace"></div>
+    </main>
+
+    <div id="new_idea">
+      <p></p>
+    </div>
+    <script src="./main.js"></script>
+  </body>
+
+</html>

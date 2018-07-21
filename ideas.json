@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Tubing",
+    "description": "Get on a tube and foat own the river!",
+    "cost": "$",
+    "place": [
+      "outdoor"
+    ],
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  {
+    "title": "Biking and a Picnic",
+    "description": "Go on a bike ride and have a picnic",
+    "cost": "$",
+    "place": [
+      "outdoor"
+    ],
+    "season": [
+      "spring",
+      "summer"
+    ]
+  },
+  {
+    "title": "Coloring",
+    "description": "Grab some crayons and some snackage and find a fun spot to color",
+    "cost": "$",
+    "place": [
+      "outdoor",
+      "indoor"
+    ],
+    "season": [
+      "winter"
+    ]
+  },
+  {
+    "title": "Geocaching",
+    "description": "Download a free Geocaching app on your phones and explore your town",
+    "cost": "$",
+    "place": "outdoor",
+    "season": [
+      "spring"
+    ]
+  }
+]
